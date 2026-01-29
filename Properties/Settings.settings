@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Auto_Serial_Downloader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastVid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0x04B4</Value>
+    </Setting>
+    <Setting Name="LastPid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0x0003</Value>
+    </Setting>
+    <Setting Name="LastSn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LastCyusbPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.csproj.user
+
+# Logs
+*.log
+
+# Publish outputs (if you create custom folders)
+publish/
